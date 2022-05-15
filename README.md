@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nima Mahini</h1>  
-<h3 align="center">I'm a computer engineering student , I'm interested in frontend and backend. I started learning web developing in 2020.</h3>  
+<h3 align="center">I'm a computer engineering student , I'm interested in frontend and backend. I started learning web developing in 2021.</h3>  
    
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimamleo&label=Profile%20views&color=0e75b6&style=flat" alt="nimamleo" /> </p>  
